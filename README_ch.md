@@ -19,7 +19,8 @@ for TrimUI Brick（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 ## 一、安装说明 - 只安装主题文件
 
 1. 下载整个项目文件。
-   <img width="953" alt="download instruction" src="https://github.com/user-attachments/assets/4835a0ee-6730-4fab-bc97-7870b8a9f50b" />
+   <img width="1082" alt="Screenshot 2025-03-15 at 13 34 03" src="https://github.com/user-attachments/assets/ec9161a4-b856-4270-a219-7c0f54ffab19" />
+
 2. 复制文件夹 `CozyBrick/ThemeFiles/Themes/Cozy` 到内存卡的 `Themes` 文件夹。
 3. 在设备上切换主题  **Setting** -> **Themes** -> **Cozy**
 
@@ -34,7 +35,8 @@ for TrimUI Brick（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 为了更方便的安装主题相关文件，我作了一个 app 来处理这些事。按照下文指示操作即可。
 
 1. 下载整个项目文件。
-   <img width="953" alt="download instruction" src="https://github.com/user-attachments/assets/4835a0ee-6730-4fab-bc97-7870b8a9f50b" />
+   <img width="1082" alt="Screenshot 2025-03-15 at 13 34 03" src="https://github.com/user-attachments/assets/ec9161a4-b856-4270-a219-7c0f54ffab19" />
+
 2. 把下载好的 `CozyBrick` 文件夹放到内存卡的 `Apps` 文件夹下。
 3. 内存卡放回设备中，开机。
 4. 切到 **Apps** 标签，你会看到多出一个 app 名为 **Cozy Installer**  
@@ -61,7 +63,8 @@ for TrimUI Brick（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 所以如果不是你非常大尺度的修改了整个系统的目录结构，还是建议使用 app 安装，省劲儿。
 
 1. 下载整个项目文件。
-   <img width="953" alt="download instruction" src="https://github.com/user-attachments/assets/4835a0ee-6730-4fab-bc97-7870b8a9f50b" />
+   <img width="1082" alt="Screenshot 2025-03-15 at 13 34 03" src="https://github.com/user-attachments/assets/ec9161a4-b856-4270-a219-7c0f54ffab19" />
+
 2. 复制文件夹 `CozyBrick/ThemeFiles/Themes/Cozy` 到内存卡的 `Themes` 文件夹。
 3. 在设备上切换主题  **Setting** -> **Themes** -> **Cozy**
 4. 基本的主题就已经切换成功了

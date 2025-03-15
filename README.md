@@ -21,7 +21,8 @@ for TrimUI Brick（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 ## Instructions - Theme files only
 
 1. Download the project file.
-   <img width="953" alt="download instruction" src="https://github.com/user-attachments/assets/4835a0ee-6730-4fab-bc97-7870b8a9f50b" />
+   <img width="1082" alt="Screenshot 2025-03-15 at 13 34 03" src="https://github.com/user-attachments/assets/ec9161a4-b856-4270-a219-7c0f54ffab19" />
+
 2. Copy the folder `CozyBrick/ThemeFiles/Themes/Cozy` to your SD card's `Themes` folder.
 3. **Settings** -> **Themes** -> **Cozy**
 
@@ -36,7 +37,8 @@ It would take several copy-and-paste actions to apply a theme, so to make the pr
 You can use this app by following the instructions below.
 
 1. Download the project file.
-   <img width="953" alt="download instruction" src="https://github.com/user-attachments/assets/4835a0ee-6730-4fab-bc97-7870b8a9f50b" />
+   <img width="1082" alt="Screenshot 2025-03-15 at 13 34 03" src="https://github.com/user-attachments/assets/ec9161a4-b856-4270-a219-7c0f54ffab19" />
+
 2. Place the `CozyBrick` folder into your SD card's `Apps` folder.
 3. Insert the SD card into your Brick device and reboot it.
 4. Switch to the Apps tab, where you’ll see an app named **Cozy Installer**.  
@@ -66,7 +68,8 @@ This situation may arise if you’ve made significant changes to CrossMix OS's f
 
 
 1. Download the project file.
-   <img width="953" alt="download instruction" src="https://github.com/user-attachments/assets/4835a0ee-6730-4fab-bc97-7870b8a9f50b" />
+   <img width="1082" alt="Screenshot 2025-03-15 at 13 34 03" src="https://github.com/user-attachments/assets/ec9161a4-b856-4270-a219-7c0f54ffab19" />
+
 2. Copy the folder `CozyBrick/ThemeFiles/Themes/Cozy` to your SD card's `Themes` folder.
 3. On your TrimUI Brick, navigate to: **Settings** -> **Themes** -> **Cozy**.
 4. The basic theme files will now be applied
