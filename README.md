@@ -3,7 +3,7 @@
 [查看中文说明 →](./README_ch.md)
 
 # Theme Cozy for TrimUI Brick
-for TrimUI Brick（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
+for TrimUI Brick（[CrossMix OS](https://github.com/cizia64/CrossMix-OS/tree/Brick)）
 
 
 ![Preview](./Photos/apps_whole.jpg)
@@ -30,8 +30,8 @@ for TrimUI Brick（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 ## Instructions - fully - App install
 
 > [!IMPORTANT]  
-> Your TrimUI Brick's version need to be v1.3.0  
-> You can find the latest version in [https://github.com/cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS)
+> Your TrimUI Brick's version need to be CrossMix v1.3.0 (Brick branch)  
+> You can find the latest version in [https://github.com/cizia64/CrossMix-OS/tree/Brick](https://github.com/cizia64/CrossMix-OS/tree/Brick)
 
 It would take several copy-and-paste actions to apply a theme, so to make the process more convenient, I’ve created an app to handle it.   
 You can use this app by following the instructions below.
@@ -58,7 +58,7 @@ You can use this app by following the instructions below.
 
 > [!IMPORTANT]  
 > Your TrimUI Brick must be running version 1.3.0.  
-> You can find the latest version at [https://github.com/cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS)
+> You can find the latest version at [https://github.com/cizia64/CrossMix-OS/tree/Brick](https://github.com/cizia64/CrossMix-OS/tree/Brick)
 
 The process of manual installation is exactly the same as app installation.   
 Therefore, I recommend using the app to install this theme.

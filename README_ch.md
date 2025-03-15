@@ -3,7 +3,7 @@
 [English →](./README.md)
 
 # Theme Cozy for TrimUI Brick
-for TrimUI Brick（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
+for TrimUI Brick（[CrossMix OS](https://github.com/cizia64/CrossMix-OS/tree/Brick)）
 
 
 ![Preview](./Photos/apps_whole.jpg)
@@ -29,8 +29,8 @@ for TrimUI Brick（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 ## 二、安装说明 - 通过 App 安装
 
 > [!IMPORTANT]   
-> 你的设备需要安装 CrossMix OS，并且版本是 v1.3.0  
-> 从这里更新最新系统 [https://github.com/cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS)
+> 你的设备需要安装 CrossMix OS，并且版本是 v1.3.0（Brick 分支）  
+> 从这里更新最新系统 [https://github.com/cizia64/CrossMix-OS/tree/Brick](https://github.com/cizia64/CrossMix-OS/tree/Brick)
 
 为了更方便的安装主题相关文件，我作了一个 app 来处理这些事。按照下文指示操作即可。
 
@@ -57,7 +57,7 @@ for TrimUI Brick（[CrossMix OS](https://github.com/cizia64/CrossMix-OS)）
 
 > [!IMPORTANT]  
 > 你的设备需要安装 CrossMix OS，并且版本是 v1.3.0  
-> 从这里更新最新系统 [https://github.com/cizia64/CrossMix-OS](https://github.com/cizia64/CrossMix-OS)
+> 从这里更新最新系统 [https://github.com/cizia64/CrossMix-OS/tree/Brick](https://github.com/cizia64/CrossMix-OS/tree/Brick)
 
 手动安装的过程，完全是上面 app 安装的所有过程。  
 所以如果不是你非常大尺度的修改了整个系统的目录结构，还是建议使用 app 安装，省劲儿。
