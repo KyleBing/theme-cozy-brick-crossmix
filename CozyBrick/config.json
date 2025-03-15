@@ -1,0 +1,9 @@
+{
+    "package": "cn.kylebing.cozy_installer_brick",
+    "label": "Cozy Brick",
+    "topicon": "topicon.png",
+    "icon": "icon.png",
+    "iconsel": "icon.png",
+    "launch": "launch.sh",
+    "description": "Apply all necessary theme files to CrossMix (TrimUI Brick)."
+}
