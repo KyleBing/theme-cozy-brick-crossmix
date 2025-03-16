@@ -53,6 +53,33 @@ You can use this app by following the instructions below.
 7. Navigate to **System Tools** -> **Theme** -> **Cozy** to switch to the Cozy theme.
 8. Done! Enjoy your new theme.
 
+The app icon in Brick has been using topicon as its icon now, and the icon layout is not compatible with the original "icon" option in the app's config.json file. And CorossMix also has not made adjustment for this. So I have decided to use "icon" as the app's icon.
+After you fully install this theme into your device, you will find that the icons of the apps that come with the stock are different from the others in size. That's because they are using "topicon" as their icons.
+So here is what you need to do:
+
+1. Open SSH. `Apps` -> `SystemTools` -> `NETWORK` -> `SSH` (enable it)
+    Connect your device with SSH. User: `root`, password: `tina`
+2. Go to the folder `/usr/trimui/apps/` You will find four apps in this folder:
+   - fn_editor
+   - moonlight
+   - player
+   - usb_storage
+    
+    There is a config.json file in each app folder. What you need to do is open those files and replace "icon" in them with the "topicon" content, leave "icontop" to ""
+    Like this:
+    ```json
+    {
+    "label":"Media Player",
+    "label.ch.lang":"...............",
+    "icon":"ic-media-player.png",
+    "icontop":"",
+    "launch":"launch.sh",
+    "description":"TRIMUI Media Player",
+    "description.ch.lang":"TRIMUI Media Player"
+    }
+    ```
+    After this, enter an app and then exit it. You will see the changes. The size of the system icons will be the same as that of the other apps.
+
 
 ## Instructions - fully - Manual install
 

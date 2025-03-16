@@ -52,6 +52,32 @@ for TrimUI Brick（[CrossMix OS](https://github.com/cizia64/CrossMix-OS/tree/Bri
 7. 打开 app **SystemTools** -> **Theme** -> **Cozy**，就会切换到 Cozy 主题。
 8. 完成。
 
+这样操作之后，TSP 上是没有问题，但因为 Brick 系统中比 TSP 中多了一个 icontop 的图标指定，  
+后续需要手动调整一下四个系统图标的图标大小。
+
+1. 打开 SSH，进入 Apps -> SystemTools -> NETWORK -> SSH (开启它)
+    使用 ssh 连接你的 Brick 设备。用户名: root, 密码: tina
+
+2. 进入文件夹 `/usr/trimui/apps/` 你就会看到四个系统应用在这里面：
+   - fn_editor
+   - moonlight
+   - player
+   - usb_storage
+
+    每个应用里面都有一个名为 `config.json` 的 json 文件，你需要做的就是将这四个文件中的 `icontop` 字段内容，移动到 `icon` 字段中，如下所示。  
+    这之后，随便进入一个 app 再退出，系统图标的大小就跟其它应用的大小一样了。
+   ```json
+   {
+       "label":"Media Player",
+       "label.ch.lang":"...............",
+       "icon":"ic-media-player.png",
+       "icontop":"",
+       "launch":"launch.sh",
+       "description":"TRIMUI Media Player",
+       "description.ch.lang":"TRIMUI Media Player"
+   }
+   ```
+
 
 ## 三、安装说明 - 手动安装
 
