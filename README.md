@@ -41,10 +41,10 @@ You can use this app by following the instructions below.
 
 2. Place the `CozyBrick` folder into your SD card's `Apps` folder.
 3. Insert the SD card into your Brick device and reboot it.
-4. Switch to the Apps tab, where you’ll see an app named **Cozy Installer**.  
+4. Switch to the Apps tab, where you’ll see an app named **CozyBrick**.  
     <img width="200" alt="cozy installer app" src="./CozyBrick/icon.png"/>  
 5. Open the app to view the instructions, as shown below:
-    ![cozy_installer_instruction](./CozyBrick/instruction.png)
+    ![cozy_installer_instruction](CozyBrick/bg/instruction.png)
 
 6. Press <kbd>A</kbd> to automatically install the Cozy theme onto your SD card. This includes:
    - theme deploy file `Cozy.sh`

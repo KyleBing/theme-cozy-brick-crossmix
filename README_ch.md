@@ -39,10 +39,10 @@ for TrimUI Brick（[CrossMix OS](https://github.com/cizia64/CrossMix-OS/tree/Bri
 
 2. 把下载好的 `CozyBrick` 文件夹放到内存卡的 `Apps` 文件夹下。
 3. 内存卡放回设备中，开机。
-4. 切到 **Apps** 标签，你会看到多出一个 app 名为 **Cozy Installer**  
+4. 切到 **Apps** 标签，你会看到多出一个 app 名为 **CozyBrick**  
     <img width="200" alt="cozy installer app" src="./CozyBrick/icon.png"/>  
 5. 打开它，就能看到里面的提示如下，就是提示一些要添加或替换的文件：
-    ![cozy_installer_instruction](./CozyBrick/instruction.png)
+    ![cozy_installer_instruction](CozyBrick/bg/instruction.png)
 
 6. 根据提示按下按键 <kbd>A</kbd>，这个 app 就会自动将所有主题相关文件添加到系统中，包含如下：
    - 主题部署脚本文件 `Cozy.sh`
