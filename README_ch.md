@@ -107,7 +107,7 @@ for TrimUI Brick（[CrossMix OS](https://github.com/cizia64/CrossMix-OS/tree/Bri
 8. 完成。
 
 
-## Credit
+## 字体
 
 **Font noto-sans:** from [fontsource](https://github.com/fontsource/fontsource)
 
